@@ -1,0 +1,24 @@
+"/Users/vinakheras/Desktop/TechTask1/Pods/SnapKit/Source/LayoutConstraintItem.swift":
+  dependencies: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.d"
+  const-values: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.swiftconstvalues"
+  swift-dependencies: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.swiftdeps"
+  object: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.o"
+  diagnostics: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.dia"
+"/Users/vinakheras/Desktop/TechTask1/Pods/SnapKit/Source/UILayoutSupport+Extensions.swift":
+  const-values: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.swiftconstvalues"
+  object: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.o"
+  diagnostics: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.dia"
+  dependencies: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.d"
+  swift-dependencies: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.swiftdeps"
+"/Users/vinakheras/Desktop/TechTask1/Pods/SnapKit/Source/Typealiases.swift":
+  dependencies: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.d"
+  swift-dependencies: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.swiftdeps"
+  const-values: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.swiftconstvalues"
+  diagnostics: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.dia"
+  object: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.o"
+"/Users/vinakheras/Desktop/TechTask1/Pods/SnapKit/Source/LayoutConstraint.swift":
+  dependencies: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraint.d"
+  swift-dependencies: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraint.swiftdeps"
+  const-values: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraint.swiftconstvalues"
+  object: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraint.o"
+  diagnostics: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraint.dia"

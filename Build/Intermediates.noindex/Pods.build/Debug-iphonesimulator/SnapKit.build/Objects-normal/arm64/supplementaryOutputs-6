@@ -1,0 +1,24 @@
+"/Users/vinakheras/Desktop/TechTask1/Pods/SnapKit/Source/ConstraintRelatableTarget.swift":
+  diagnostics: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelatableTarget.dia"
+  dependencies: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelatableTarget.d"
+  const-values: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelatableTarget.swiftconstvalues"
+  object: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelatableTarget.o"
+  swift-dependencies: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelatableTarget.swiftdeps"
+"/Users/vinakheras/Desktop/TechTask1/Pods/SnapKit/Source/ConstraintRelation.swift":
+  const-values: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelation.swiftconstvalues"
+  swift-dependencies: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelation.swiftdeps"
+  object: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelation.o"
+  dependencies: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelation.d"
+  diagnostics: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelation.dia"
+"/Users/vinakheras/Desktop/TechTask1/Pods/SnapKit/Source/ConstraintPriorityTarget.swift":
+  const-values: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintPriorityTarget.swiftconstvalues"
+  swift-dependencies: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintPriorityTarget.swiftdeps"
+  dependencies: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintPriorityTarget.d"
+  object: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintPriorityTarget.o"
+  diagnostics: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintPriorityTarget.dia"
+"/Users/vinakheras/Desktop/TechTask1/Pods/SnapKit/Source/ConstraintPriority.swift":
+  swift-dependencies: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintPriority.swiftdeps"
+  dependencies: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintPriority.d"
+  const-values: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintPriority.swiftconstvalues"
+  object: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintPriority.o"
+  diagnostics: "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintPriority.dia"

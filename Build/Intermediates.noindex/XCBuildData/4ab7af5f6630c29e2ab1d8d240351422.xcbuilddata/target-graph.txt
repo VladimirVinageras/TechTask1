@@ -1,0 +1,10 @@
+Target dependency graph (4 targets)
+Target 'TechTask1' in project 'TechTask1'
+➜ Implicit dependency on target 'Pods-TechTask1' in project 'Pods' via file 'Pods_TechTask1.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'lottie-ios' in project 'Pods' via options '-framework Lottie' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'SnapKit' in project 'Pods' via options '-framework SnapKit' in build setting 'OTHER_LDFLAGS'
+Target 'Pods-TechTask1' in project 'Pods'
+➜ Explicit dependency on target 'SnapKit' in project 'Pods'
+➜ Explicit dependency on target 'lottie-ios' in project 'Pods'
+Target 'lottie-ios' in project 'Pods' (no dependencies)
+Target 'SnapKit' in project 'Pods' (no dependencies)

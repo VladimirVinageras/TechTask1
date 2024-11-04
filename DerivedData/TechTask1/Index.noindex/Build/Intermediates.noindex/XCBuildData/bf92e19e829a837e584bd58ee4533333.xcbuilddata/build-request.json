@@ -1,0 +1,57 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42fa2e43183734e48231e71168c0841a74"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd421130daa4894db4a9220537a0c61d4fd9"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42a101d12ffa3c5173694a7a6bba5321c7"
+    },
+    {
+      "guid" : "d403097060810096f7d78063a343b7cd87475879df3da998915b6e0be27f1041"
+    }
+  ],
+  "containerPath" : "/Users/vinakheras/Desktop/TechTask1/TechTask1.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vinakheras/Desktop/TechTask1/DerivedData/TechTask1/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vinakheras/Desktop/TechTask1/DerivedData/TechTask1/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/vinakheras/Desktop/TechTask1/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vinakheras/Desktop/TechTask1/DerivedData/TechTask1/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vinakheras/Desktop/TechTask1/DerivedData/TechTask1/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/vinakheras/Desktop/TechTask1/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/vinakheras/Desktop/TechTask1/Build/Products",
+      "pchPath" : "/Users/vinakheras/Desktop/TechTask1/DerivedData/TechTask1/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
